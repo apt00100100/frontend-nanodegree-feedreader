@@ -10,4 +10,4 @@ The project can be found on github [here](https://github.com/apt00100100/fronten
 ```
 $   git clone https://github.com/apt00100100/frontend-nanodegree-feedreader.git
 ```
-3. Open index.html to view the final application
+2. Open index.html to view the final application
